@@ -5,4 +5,4 @@ A template repository to publish games
 2. [Player Scene Sep 4](p_scene_moving_09_04/)
 3. [Main_Scene Sep 4](Main_scene_09_04/)
 4. [Finished Coin Dash](almost done...)
-5. [Space Rock Sep 9](space rock 09_09/)
+5. [Space Rock Sep 9](space_rock_09_09/)
