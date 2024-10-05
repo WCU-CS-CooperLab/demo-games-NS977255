@@ -7,3 +7,4 @@ A template repository to publish games
 4. [Finished Coin Dash](coin_dash_09_07)
 5. [Space Rock Sep 9](space_rocks_09_09/)
 6. [Space Rock Sep 11](space_rocks_09_11)
+7. [Space Rock Sep 13](space_rocks_09_13)
