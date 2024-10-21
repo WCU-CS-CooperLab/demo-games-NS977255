@@ -8,4 +8,5 @@ A template repository to publish games
 5. [Space Rock Sep 9](space_rocks_09_09/)
 6. [Space Rock Sep 11](space_rocks_09_11/)
 7. [Space Rock Sep 13](space_rocks_09_13/)
-8. [Project Phase 1](project_phase_1)
+8. [Project 1 Phase 1](project_phase_1/)
+9. [Project 1 Phase 2](project_phase_2/)
