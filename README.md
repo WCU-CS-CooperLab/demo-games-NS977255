@@ -10,3 +10,4 @@ A template repository to publish games
 7. [Space Rock Sep 13](space_rocks_09_13/)
 8. [Project 1 Phase 1](project_phase_1/)
 9. [Project 1 Phase 2](project_phase_2/)
+10. [Team Project 1](Team_Project_Bridge/)
