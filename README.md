@@ -102,4 +102,6 @@ I thought it was a cute idea.</p>
 
 [Project_3_Phase_2](project_3_phase_2/)
 
-19. [Team Project 1](Team_Project_Bridge/)
+<p>The first Team Project</p>
+
+[Team Project 1](Team_Project_Bridge/)
